@@ -46,7 +46,7 @@ Make sure the following are installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/dieaquino/RAG_DocsAssistant.git
    cd zurich-policy-assistant
    ```
 
